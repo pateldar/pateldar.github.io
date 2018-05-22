@@ -1,2 +1,2 @@
-# pateldar.github.io
+# http://pateldar.github.io
 My personal website
