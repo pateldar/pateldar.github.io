@@ -125,14 +125,20 @@ body {
   50% { border-color: orange; }
 }
 
+hr {
+  border-color: #f5d69b;
+  background-color:#f5d69b;
+  height: 3px;
+}
+
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #f5d69b;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #154360;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -140,7 +146,7 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #af7f5d;
   color: #f3f3f3;
 }
 
