@@ -128,14 +128,14 @@ body {
 }
 
 hr {
-  border-color: #f5d69b;
-  background-color:#f5d69b;
+  border-color: #C0C0C0;
+  background-color:#C0C0C0;
   height: 3px;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #f5d69b;
+  background-color: #C0C0C0;
   border-top-style: solid;
   border-top-color: : #154360;
   border-bottom-style: solid;
